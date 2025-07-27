@@ -1,5 +1,6 @@
 ## Miniflypod 👋
 
+Your personal sky assistant.
 
 **miniflypod/miniflypod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
